@@ -6,7 +6,7 @@ import Papa from 'papaparse';
 // ---------------------------------------------------------------------------
 // URL Web App của Google Apps Script (bản triển khai /exec)
 const SCRIPT_URL =
-  'https://script.google.com/macros/s/AKfycbwMXliod0Uyh4mKX1YdCLrj2wyxWs86wXLw3yGD7yoZQhTqGmYOAtnhwTWgyPB9_WSh/exec';
+  'https://script.google.com/macros/s/AKfycbwr7-46i0okxaoQprXmjzsIzESgYNGeLMG005p4iU9ZP4ypO_Qde3FhJfbB5of0Mhw2/exec';
 
 // Độ rộng mỗi dòng trong bảng công thức (số ký tự)
 const LINE_WIDTH = 26;
