@@ -550,7 +550,7 @@ function App() {
             </div>
             <form onSubmit={handleLogin}>
               <div style={styles.fieldGroup}>
-                <label style={styles.label}>TÊN ĐĂNG NHẬP:</label>
+                <label style={styles.label}>TÊN ĐĂNG NHẬP (admin hoặc User Login 1 - 20):</label>
                 <input
                   type="text"
                   style={styles.textInput}
