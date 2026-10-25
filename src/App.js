@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
 
-// ------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------
 // CẤU HÌNH CHUNG
-// ---------------------------------------------------------------------------
+// ------------------------------------------------------------------------------
 // URL Web App của Google Apps Script (bản triển khai /exec)
 const SCRIPT_URL =
   'https://script.google.com/macros/s/AKfycbwr7-46i0okxaoQprXmjzsIzESgYNGeLMG005p4iU9ZP4ypO_Qde3FhJfbB5of0Mhw2/exec';
